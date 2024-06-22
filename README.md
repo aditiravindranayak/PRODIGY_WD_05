@@ -1,6 +1,4 @@
 # PRODIGY_WD_05
----
-
 # Weather Forecast
 
 Weather Forecast is a stylish web application that fetches real-time weather data based on user-provided location input. The application features a notepad-themed interface designed using HTML, CSS, and JavaScript, offering a visually appealing way to view weather information.
